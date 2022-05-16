@@ -1,2 +1,2 @@
 # SQL-data-cleaning
-Data cleaning of PostgreSQL database using SQL
+Data cleaning of Nashville Housing Dataset in PostgreSQL database using SQL
